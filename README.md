@@ -16,31 +16,31 @@ Secret Notes, önemli notlarınızı şifreli bir şekilde saklamanızı ve gere
 
 ### Kullanım
 
-Not Kaydetme:
+** Not Kaydetme:
 
 Başlık, gizli not ve bir master key girin.
 
 "Save & Encrypt" butonuna tıklayarak notunuzu şifreleyin ve bilgisayarınıza kaydedin.
 
-Not Çözme:
+** Not Çözme:
 
 Kaydedilen notun başlığını ve master key'i girin.
 
 "Decrypt" butonuna tıklayarak şifrelenmiş notunuzu çözün.
 
-Gereksinimler
+### Gereksinimler
 
-Python 3.x
+- Python 3.x
 
-Gerekli kütüphaneler: tkinter, Pillow, cryptography
+- Gerekli kütüphaneler: tkinter, Pillow, cryptography
 
-Kurulum
+### Kurulum
 
-Gerekli Paketleri Yükleyin:
+** Gerekli Paketleri Yükleyin:
 
-'pip install -r requirements.txt'
+`pip install -r requirements.txt`
 
-Uygulamayı Çalıştırın:
+** Uygulamayı Çalıştırın:
 
-'python main.py'
+`python main.py`
 
