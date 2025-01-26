@@ -16,13 +16,13 @@ Secret Notes, önemli notlarınızı şifreli bir şekilde saklamanızı ve gere
 
 ### Kullanım
 
-** Not Kaydetme:
+**Not Kaydetme:
 
 Başlık, gizli not ve bir master key girin.
 
 "Save & Encrypt" butonuna tıklayarak notunuzu şifreleyin ve bilgisayarınıza kaydedin.
 
-** Not Çözme:
+**Not Çözme:
 
 Kaydedilen notun başlığını ve master key'i girin.
 
@@ -36,11 +36,11 @@ Kaydedilen notun başlığını ve master key'i girin.
 
 ### Kurulum
 
-** Gerekli Paketleri Yükleyin:
+**Gerekli Paketleri Yükleyin:
 
 `pip install -r requirements.txt`
 
-** Uygulamayı Çalıştırın:
+**Uygulamayı Çalıştırın:
 
 `python main.py`
 
